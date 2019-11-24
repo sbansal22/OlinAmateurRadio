@@ -18,9 +18,9 @@ The easiest and fastest way to get the ADALM-PLUTO hardware up and running:
 
 .. code-block:: matlab
 
-    install Communications Toolbox
-    install Communications Toolbox Support Package for ADALM-PLUTO Radio
-    install Communications Toolbox Support Package for RTL-SDR Radio
+    install Communications Toolbox in MATLAB
+    install Communications Toolbox Support Package for ADALM-PLUTO Radio in MATLAB
+    install Communications Toolbox Support Package for RTL-SDR Radio in MATLAB
     
 Documentation
 =============
