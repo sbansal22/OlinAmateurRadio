@@ -16,12 +16,28 @@ Installation
 
 The easiest and fastest way to get the ADALM-PLUTO hardware up and running:
 
+Install the Zadig app
+
 .. code-block:: matlab
 
     install Communications Toolbox in MATLAB
     install Communications Toolbox Support Package for ADALM-PLUTO Radio in MATLAB
     install Communications Toolbox Support Package for RTL-SDR Radio in MATLAB
-    
+
+Other ideas for SDR exploration:
+
+:i: CubicSDR
+
+:ii: GNURadio Companion
+
+:iii: GQRX SDR
+
+:iv: Inspectrum
+
+:v: Lime Suite
+
+:vi: Pothos Flow
+
 Documentation
 =============
 
